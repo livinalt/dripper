@@ -39,8 +39,8 @@ This repository contains two Solidity smart contracts deployed on the Sepolia ne
 
 ## Deployment Links
 
-- **Faucet Contract**: [Sepolia Blockscout](https://sepolia-blockscout.lisk.com/address/0x04A4f4D0ef5afF630816Fc6D5AdA65160bBF7023#code)
-- **LiskToken Contract**: [Sepolia Blockscout](https://sepolia-blockscout.lisk.com/address/0x524bf1ef9fE1dd03096d3041Ad6C3e88f2d86830#code)
+- **Faucet Contract**: [Lisk Sepolia Blockscout](https://sepolia-blockscout.lisk.com/address/0x04A4f4D0ef5afF630816Fc6D5AdA65160bBF7023#code)
+- **LiskToken Contract**: [Lisk Sepolia Blockscout](https://sepolia-blockscout.lisk.com/address/0x524bf1ef9fE1dd03096d3041Ad6C3e88f2d86830#code)
 
 ## License
 This project is licensed under the MIT License.
